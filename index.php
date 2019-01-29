@@ -1,3 +1,3 @@
 <?php
-echo 'Second commit!';
+echo 'Third commit!';
 ?>
